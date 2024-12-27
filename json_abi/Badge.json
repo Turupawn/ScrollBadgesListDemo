@@ -1,0 +1,21 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "bytes32",
+                "name": "uid",
+                "type": "bytes32"
+            }
+        ],
+        "name": "badgeTokenURI",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
